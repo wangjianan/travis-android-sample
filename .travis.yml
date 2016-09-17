@@ -6,9 +6,9 @@ android:
     - build-tools-24.0.2
     - android-24
     - extra
-  licenses:
-    - 'android-sdk-license-.+'
-    - 'google-gdk-license-.+'
+  # licenses:
+  #   - 'android-sdk-license-.+'
+  #   - 'google-gdk-license-.+'
     
 jdk: oraclejdk8
 
